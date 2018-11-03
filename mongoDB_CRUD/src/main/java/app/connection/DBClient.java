@@ -24,7 +24,7 @@ public class DBClient {
         return db.getCollection(collectionName);
     }
 
-    public void closeConnection() {
+    public static void closeConnection() {
         mongo.close();
     }
 }

@@ -4,7 +4,6 @@ import app.connection.DBClient;
 import app.model.User;
 import com.mongodb.BasicDBObjectBuilder;
 import com.mongodb.DBObject;
-import com.mongodb.WriteResult;
 
 public class UserRepository {
 
