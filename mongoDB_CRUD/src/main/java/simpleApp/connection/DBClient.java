@@ -1,4 +1,4 @@
-package app.connection;
+package simpleApp.connection;
 
 import com.mongodb.DB;
 import com.mongodb.DBCollection;

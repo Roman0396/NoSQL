@@ -1,7 +1,6 @@
-package app.repository;
+package simpleApp.repository;
 
-import app.connection.DBClient;
-import app.model.User;
+import simpleApp.model.User;
 import org.junit.Test;
 
 
